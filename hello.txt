@@ -1,6 +1,6 @@
 Now I'm adding a second line of content
 And a third, and a forth so we move forth
-Getting git up in the Terminal
 but it's not terminal
 It's a lifelong process
 Love it
+I am adding one more line
